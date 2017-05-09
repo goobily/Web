@@ -1,0 +1,1 @@
+INSERT INTO springmvc.user (id, first_name, last_name, nickname, password) VALUES (0, 'John', 'Wu', '约翰', '123456');
